@@ -75,7 +75,7 @@ a {
   width: 100%;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: repeat(6, minmax(100px, 15vh));
+  grid-template-rows: repeat(6, minmax(65px, 15vh));
 }
 
 .hero-background-left {
